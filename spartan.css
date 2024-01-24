@@ -1,0 +1,64 @@
+body{
+    background-image: url( Firefly\ A\ spartan\ themed\ image\ which\ can\ be\ used\ as\ a\ website\ background\ 97920.jpg);
+    background-size:220vh;
+}
+#head{
+         text-align:center;
+              font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size: 30px;
+            color-interpolation-filters: sRGB;
+        color: rgb(238, 9, 55);
+}
+.a{
+    background-color: #1c7ac1; /* Green */
+  border:rgb(37, 194, 1);
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 12px;
+}
+.a:hover{
+    background-color: white;
+    color:red;
+}
+.anchor{
+    text-align: center;
+    margin-bottom: 40px;
+}
+            .buun{
+                background-color: #1c7ac1; /* Green */
+                    border:rgb(37, 194, 1);
+                  color: white;
+                padding: 8px 16px;
+              text-align: center;
+        text-decoration: none;  
+          margin: 10px 10px;
+         display: inline-block;
+         font-size: 13px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 12px;
+}
+.buun:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 98, 255);
+}
+.intro{
+    text-align: center;
+    font-family:Tw Cen MT;
+    font-size:21px;
+    color:rgb(219, 228, 230);
+    text-shadow: 1px 1px rgb(134, 128, 115);
+}
+/* .list{
+    text-align: center;
+    font-family: Tw Cen MT;
+    color: bisque;
+    font-size: 19px;
+        margin-top: 50px;
+} */
+
